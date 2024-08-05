@@ -5,8 +5,8 @@ import java.util.Collections;
 
 public class ArrayListCollectionClass {
     public static void main(String[] args) {  // AL is suitable for frequent retrieval operation
-        // Insertion order is maintained, Duplicates are allowed , Multiple null insertion is possible,
-        //Allow heterogeneous data, for homogeneous data use generic with data type like <>
+       // // Insertion order is maintained, Duplicates are allowed , Multiple null insertion is possible,
+       // //Allow heterogeneous data, for homogeneous data use generic with data type like <>
 
         ArrayList<Integer> arrayList3=new ArrayList<>();
 
