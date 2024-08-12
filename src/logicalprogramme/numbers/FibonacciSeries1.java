@@ -10,6 +10,7 @@ public class FibonacciSeries1 {
             System.out.print(" " + x3);
             x1=x2;
             x2=x3;
+            // at last exchange value for next fib number for series
         }
     }
 }
