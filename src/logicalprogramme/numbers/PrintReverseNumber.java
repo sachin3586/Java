@@ -8,7 +8,7 @@ public class PrintReverseNumber {
         System.out.println("Enter number");
 
         int number=sc.nextInt();
-        int reverse=0;
+       int reverse=0;
         while (number!=0){
 
             int digit=number%10;

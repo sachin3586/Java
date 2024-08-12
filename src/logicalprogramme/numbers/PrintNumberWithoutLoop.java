@@ -4,11 +4,13 @@ public class PrintNumberWithoutLoop {
 
     public static void main(String[] args) {
 
-        int num=1;
-        if (num<=100){
+        int num=0;
+        while (num<=10){
 
             num++;
-            System.out.println(num);
+            System.out.print(num + " ");
+
         }
+
     }
 }
