@@ -1,6 +1,6 @@
 package logicalprogramme;
 
-public class StringReverse {
+public class StringReverseUsingStringBuffer {
 
     public static void main(String[] args) {
 
