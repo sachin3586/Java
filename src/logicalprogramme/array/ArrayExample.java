@@ -1,4 +1,4 @@
-package logicalprogramme;
+package logicalprogramme.array;
 
 public class ArrayExample {
     public static void main(String[] args) {

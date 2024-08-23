@@ -1,4 +1,4 @@
-package logicalprogramme;
+package logicalprogramme.string;
 
 public class PrintAlphabets {
     public static void main(String[] args) {
