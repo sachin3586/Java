@@ -1,4 +1,4 @@
-package logicalprogramme;
+package logicalprogramme.string;
 
 public class StringReverseUsingStringBuffer {
 
