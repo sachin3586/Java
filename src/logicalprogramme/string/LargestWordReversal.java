@@ -16,9 +16,9 @@ public class LargestWordReversal {
 
         // Reverse the largest word using StringBuilder
         StringBuilder sb = new StringBuilder(largestWord);
-        sb.reverse();
+        StringBuilder largestWordReverse = sb.reverse();
 
         System.out.println("Largest word: " + largestWord);
-        System.out.println("Reversed largest word: " + sb);
+        System.out.println("Reversed largest word: " + largestWordReverse);
     }
 }

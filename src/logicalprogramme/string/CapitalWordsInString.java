@@ -11,6 +11,7 @@ public class CapitalWordsInString {
             if (s.charAt(i)>='A' && s.charAt(i)<='Z'){
 
                 counter++;
+                System.out.print(s.charAt(i) + " ");
 
             }
 
