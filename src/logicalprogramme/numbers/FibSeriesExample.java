@@ -11,6 +11,7 @@ public class FibSeriesExample {
             System.out.print(" " + a3);
             a1=a2;
             a2=a3;
+            
         }
     }
 }
