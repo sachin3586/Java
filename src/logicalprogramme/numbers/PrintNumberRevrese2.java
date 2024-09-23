@@ -7,6 +7,7 @@ public class PrintNumberRevrese2 {
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter number");
         int a = scanner.nextInt();
+
         System.out.println("The number is " + a);
 
         int reverse=0;

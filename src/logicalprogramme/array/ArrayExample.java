@@ -3,11 +3,17 @@ package logicalprogramme.array;
 public class ArrayExample {
     public static void main(String[] args) {
         int []arr={1,2,3,4,5,6,7,8,9,10};
+       // Arrays.sort(arr);
+
         int d=4;
         for (int i=0;i<arr.length;i++){
             if (i>3){
                 System.out.println(arr[i]);
             }
+
+
+
+            }
         }
     }
-}
+

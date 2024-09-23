@@ -1,4 +1,4 @@
-package logicalprogramme.numbers;
+package logicalprogramme.array;
 
 import java.util.Arrays;
 

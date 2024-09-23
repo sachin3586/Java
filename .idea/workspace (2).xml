@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baac9182-73a6-4304-ad02-16735e9fcd13" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../JAVA" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sachin3586&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/sachin3586/Java_09_June_2024.git&quot;,
+    &quot;accountId&quot;: &quot;e7990196-00dd-4aff-9489-b4c3b8eab5d5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2heFEU6AlXdw7y5r7YoKpPZtKIz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArmstrongNumber1.executor": "Run",
+    "Application.ArrayExample.executor": "Run",
+    "Application.ArrayListCollectionClass.executor": "Run",
+    "Application.ArrayListExample.executor": "Run",
+    "Application.ArrayListUsingForLoop.executor": "Run",
+    "Application.ArrayListWithGeneric.executor": "Run",
+    "Application.ArrayListWithRetainAll.executor": "Run",
+    "Application.AscendingOrderArray.executor": "Run",
+    "Application.AscendingOrderArray1.executor": "Run",
+    "Application.AutoBoxing_UnBoxing.executor": "Run",
+    "Application.Blackslash_literals.executor": "Run",
+    "Application.BreakStatement.executor": "Run",
+    "Application.CallByReference.executor": "Run",
+    "Application.CallByValue.executor": "Run",
+    "Application.CapitalWordsInString.executor": "Run",
+    "Application.CheckedException.executor": "Run",
+    "Application.ChildClass.executor": "Run",
+    "Application.CompareTwoString.executor": "Run",
+    "Application.Data_Types.executor": "Run",
+    "Application.DefaultConstructor.executor": "Run",
+    "Application.DefaultImplementation.executor": "Run",
+    "Application.DefaultInterface.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DescendingOrderArray.executor": "Run",
+    "Application.DivisibleBy3And5.executor": "Run",
+    "Application.DivisibleBy3aND5V1.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.DominoPizza.executor": "Run",
+    "Application.DuplicatesInString.executor": "Run",
+    "Application.ElderBrother.executor": "Run",
+    "Application.EncapsulationExample.executor": "Run",
+    "Application.EvenNumber.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.FibSeriesExample.executor": "Run",
+    "Application.FibonacciIterative.executor": "Run",
+    "Application.FibonacciSeries1.executor": "Run",
+    "Application.FileDemo.executor": "Run",
+    "Application.FileDemo1.executor": "Run",
+    "Application.FileReaderDemo.executor": "Run",
+    "Application.FileWriterDemo1.executor": "Run",
+    "Application.FileWritingDemo.executor": "Run",
+    "Application.FinalStaticVariable.executor": "Run",
+    "Application.FinalVariable.executor": "Run",
+    "Application.FindRepeatedCharsInString.executor": "Run",
+    "Application.For_Loop.executor": "Run",
+    "Application.Fruit.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.HashSetExample.executor": "Run",
+    "Application.HashTableExample.executor": "Run",
+    "Application.HowToHandleException.executor": "Run",
+    "Application.IfElseLadder.executor": "Run",
+    "Application.IfElseLoop.executor": "Run",
+    "Application.InstanceVariable.executor": "Run",
+    "Application.JavaAdditionMethod1.executor": "Run",
+    "Application.JavaExample.executor": "Run",
+    "Application.JavaExample1.executor": "Run",
+    "Application.JavaMethodAddition.executor": "Run",
+    "Application.Labrador.executor": "Run",
+    "Application.LargestWordReversal.executor": "Run",
+    "Application.LargestWordReverseString.executor": "Run",
+    "Application.LeafYear.executor": "Run",
+    "Application.LinkedHashsetExample.executor": "Run",
+    "Application.LinkedListExample.executor": "Run",
+    "Application.LinkedListMethods.executor": "Run",
+    "Application.MaxNumberArray.executor": "Debug",
+    "Application.MaxNumberArray1.executor": "Run",
+    "Application.MaxNumberInArray.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.MethodWithReturnType.executor": "Run",
+    "Application.MethodWithReturnType1.executor": "Run",
+    "Application.MinNumberArray.executor": "Run",
+    "Application.MultiDimensionalArray.executor": "Run",
+    "Application.MultiDimensionalArray1.executor": "Run",
+    "Application.Nested_for.executor": "Run",
+    "Application.NonParameterizedConstructor1.executor": "Run",
+    "Application.NonStaticMethod.executor": "Run",
+    "Application.Operator_Example.executor": "Run",
+    "Application.Operator_Examples1.executor": "Run",
+    "Application.PC2.executor": "Run",
+    "Application.ParameterizedConstructor.executor": "Run",
+    "Application.ParameterizedConstructor1.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.PizzaHut.executor": "Run",
+    "Application.Prefix_postfix.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.PrimeNumber1.executor": "Run",
+    "Application.PrintAlphabets.executor": "Run",
+    "Application.PrintNumberRevrese2.executor": "Run",
+    "Application.PrintNumberWithoutLoop.executor": "Run",
+    "Application.PrintReverseNumber.executor": "Run",
+    "Application.PrintStarsEqualToRows.executor": "Run",
+    "Application.PropertiesExample.executor": "Run",
+    "Application.RepeatedWordsInStingParagraph.executor": "Run",
+    "Application.ReverseArrayUsingCollections.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.ReverseNumberStringBuffer.executor": "Run",
+    "Application.ReverseString2.executor": "Run",
+    "Application.Rule_1.executor": "Run",
+    "Application.Rule_2.executor": "Run",
+    "Application.Rule_3.executor": "Run",
+    "Application.Rule_4.executor": "Run",
+    "Application.Rule_5.executor": "Run",
+    "Application.Rule_6.executor": "Run",
+    "Application.Rule_7.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.ScannerClass1.executor": "Run",
+    "Application.ScannerForInt.executor": "Run",
+    "Application.ScannerForString1.executor": "Run",
+    "Application.ScannerForStringInput.executor": "Run",
+    "Application.ScannerInt1.executor": "Run",
+    "Application.SecondLargestNumberInArray.executor": "Run",
+    "Application.SimpleCode.executor": "Run",
+    "Application.SimpleImpLogic.executor": "Run",
+    "Application.SingleDimensionalArray.executor": "Run",
+    "Application.SingleDimensionalArray1.executor": "Run",
+    "Application.SingleDimensionalArrayExample1.executor": "Run",
+    "Application.SingleDimensionalExample.executor": "Run",
+    "Application.SmallestNumberInArray.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.StackExample.executor": "Run",
+    "Application.Star_Pattern1.executor": "Run",
+    "Application.Star_Pattern2.executor": "Run",
+    "Application.StaticMethods.executor": "Run",
+    "Application.StaticVariable.executor": "Run",
+    "Application.StringBuffer1.executor": "Run",
+    "Application.StringBufferClass.executor": "Run",
+    "Application.StringCompression.executor": "Run",
+    "Application.StringImpInterviewQuestion.executor": "Run",
+    "Application.StringMemoryAllocation.executor": "Run",
+    "Application.StringMemoryAllocation1.executor": "Run",
+    "Application.StringMemoryAllocation2.executor": "Run",
+    "Application.StringMethods.executor": "Run",
+    "Application.StringMethods1.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.StringReverse1.executor": "Run",
+    "Application.StringReverseUsingStringBuffer.executor": "Run",
+    "Application.StringSplit1.executor": "Run",
+    "Application.StringSplitMethod.executor": "Run",
+    "Application.StringSplitReverse1.executor": "Run",
+    "Application.String_Concatinate.executor": "Run",
+    "Application.Subclass.executor": "Run",
+    "Application.Swap2Number2.executor": "Run",
+    "Application.Swap2Numbers.executor": "Run",
+    "Application.Swap2Strings.executor": "Run",
+    "Application.SwapTwoNumber.executor": "Run",
+    "Application.SwitchStatement.executor": "Run",
+    "Application.TataCarShowroom1.executor": "Run",
+    "Application.ThrowExample.executor": "Debug",
+    "Application.ThrowExample2.executor": "Run",
+    "Application.Tiger.executor": "Run",
+    "Application.TreeSetExample.executor": "Run",
+    "Application.TryBlockMultipleStatement.executor": "Run",
+    "Application.TwoDimensionalArray.executor": "Run",
+    "Application.VariableTypes.executor": "Run",
+    "Application.VectorListExample.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "Application.literal_int.executor": "Run",
+    "Application.oops.abstractclass.ChildClass.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "mycode",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/Java_09_June_2024/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ArrayExample">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.ArrayExample" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CapitalWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logicalprogramme.string.CapitalWordsInString" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logicalprogramme.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicatesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logicalprogramme.string.DuplicatesInString" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logicalprogramme.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestWordReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logicalprogramme.string.LargestWordReversal" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logicalprogramme.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleImpLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logicalprogramme.numbers.SimpleImpLogic" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logicalprogramme.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.DuplicatesInString" />
+        <item itemvalue="Application.CapitalWordsInString" />
+        <item itemvalue="Application.SimpleImpLogic" />
+        <item itemvalue="Application.LargestWordReversal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baac9182-73a6-4304-ad02-16735e9fcd13" name="Changes" comment="" />
+      <created>1717946528072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717946528072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

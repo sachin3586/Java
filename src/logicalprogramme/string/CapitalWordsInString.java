@@ -7,10 +7,11 @@ public class CapitalWordsInString {
         String s="Hello Everyone My Name Is Sachin ";
 
         int counter=0;
-        for (int i=0;i<s.length();i++){
+        for (int i=0;i<=s.length()-1;i++){
             if (s.charAt(i)>='A' && s.charAt(i)<='Z'){
 
                 counter++;
+                System.out.print(s.charAt(i) + " ");
 
             }
 
