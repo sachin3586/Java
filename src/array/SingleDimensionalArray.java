@@ -8,10 +8,20 @@ public class SingleDimensionalArray
        // System.out.println(x.length);
         //Access and print elements in  array
 
-        for (int i = 0; i <x.length ; i++)
+        for (int i = 0; i <x.length ; i++) // this is method to sort given array without using
+                                           // inbuilt sort function
         {
-            System.out.print(x[i] + " ");
+           for (int j=0;j<x.length-1;j++){
+               if (x[j]==x[j+1]){
+                   int temp=x[j];
+                   x[j]=x[j+1];
+                   x[j+1]=temp;
+               }
+           }
         }
 
+        for (int i=0;i<x.length;i++){
+            System.out.print(x[i] + " ");
+        }
     }
 }

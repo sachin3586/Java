@@ -13,7 +13,7 @@ public class CallByValue {
         CallByValue callByValue = new CallByValue();
 
 
-        callByValue.show(50); // Call by value means we are passing value to method while calling the same method
+        callByValue.show(40); // Call by value means we are passing value to method while calling the same method
         System.out.println(callByValue.a); // This is nothing but calling instance variable using class object
 
     }

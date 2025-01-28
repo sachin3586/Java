@@ -1,18 +1,20 @@
 package logicalprogramme.numbers;
 
-public class Swap2Numbers {
+public class
+Swap2Numbers {
     public static void main(String[] args) {
 
-        int x = 10;
-        int y = 20;
-        int z;
+       int a=50;
+       int b=91;
+        System.out.println("Numbers before swappings are ");
+        System.out.println("a="+a + " and b=" + b);
+        System.out.println("Numbers after swappings are ");
 
-        z=x;
-        x=y;
-        y=z;
-
-        System.out.println(x);
-        System.out.println(y);
+        int c;
+        c=a;
+        a=b;
+        b=c;
+        System.out.println("a=" + a + " and b= " + b);
     }
 
 }

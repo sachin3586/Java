@@ -6,7 +6,7 @@ public class StringMemoryAllocation {
 
         String name="SHLOK DADHE";  // string literal
         name= "SACHIN DADHE";       //Immutable
-
+        name="Shlok Dadhe";
         System.out.println(name);
     }
 }

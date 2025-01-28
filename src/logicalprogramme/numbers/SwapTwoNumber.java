@@ -4,15 +4,15 @@ public class SwapTwoNumber {
 
     public static void main(String[] args) {
 
-        int x=10;
-        int y=5;
+       int a=25;
+       int b=75;
+        System.out.println("Numbers before swappings are a=" + a + " and b=" + b );
+        System.out.println("Numbers after swapping are  ");
+        a=a+b;
+        b=a-b;
+        a=a-b;
 
-        x=x+y;
-        y=x-y;
-        x=x-y;
-
-        System.out.println(x);
-        System.out.println(y);
+        System.out.println("Numbers after swappings are a=" + a + " and b=" + b );
     }
 
 }

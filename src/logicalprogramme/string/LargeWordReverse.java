@@ -2,26 +2,21 @@ package logicalprogramme.string;
 
 public class LargeWordReverse {
     public static void main(String[] args) {
-        String s1="My name is Sachin I am SDET Engineer";
-        String [] words=s1.split(" ");
-        String largestWord="";
-      /* for (int i=0;i<words.length;i++){
-           if (words[i].length()>largestWord.length()){
-               largestWord=words[i];
-           }
-       }
-       */
+        String s1="I am Trader Investor and trainer";
+        String [] s2=s1.split(" ");
+        String largeWord="";
 
-        for (String word:words){
-            if (word.length()>largestWord.length()){
-                largestWord=word;
+        for (String word:s2){
+            if(word.length()>largeWord.length()){
+                largeWord=word;
             }
         }
-        System.out.println("Largest word is " + largestWord);
+        System.out.println("Largestword is " + largeWord);
 
-       StringBuffer sb=new StringBuffer(largestWord);
+        StringBuffer sb=new StringBuffer(largeWord);
         StringBuffer reverseWord = sb.reverse();
+        String wordR = reverseWord.toString();
 
-        System.out.println("Reversed largest word is " +  reverseWord);
+        System.out.println(wordR);
     }
 }

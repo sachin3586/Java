@@ -6,7 +6,7 @@ public class WhileLoop
     {
         int a=0;
 
-        while(a<=5)
+        while(a<=10)
         {
             System.out.print(a + " ");
             a++;

@@ -18,6 +18,7 @@ public class HashMapExample {
 
         System.out.println(hashMap);
 
+
         Iterator iterator=hashMap.entrySet().iterator();
         while (iterator.hasNext()){
             System.out.println(iterator.next());
@@ -29,18 +30,7 @@ public class HashMapExample {
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     }
 
 }
+

@@ -9,7 +9,7 @@ public class DoWhile {
             a++;
 
         }
-        while (a<=12);
+        while (a<=90);
 
     }
 }

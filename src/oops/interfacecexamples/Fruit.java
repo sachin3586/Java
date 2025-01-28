@@ -1,6 +1,6 @@
 package oops.interfacecexamples;
 
-public class Fruit implements Apple,Mango{
+public class Fruit implements Mango ,Apple{
     // Even though methods are same in both interface but we dont have implementation in interface
     // we provide method implementation in implemented class thats why multiple inheritance resolve here
 
@@ -19,12 +19,17 @@ public class Fruit implements Apple,Mango{
         System.out.println("Mango Price is low");
     }
 
+    public void price1(){
+        System.out.println("Apple price is  more than mango");
+    }
+
     public static void main(String[] args) {
 
         Fruit fruit=new Fruit();
         fruit.colour();
         fruit.taste();
         fruit.price();
+        fruit.price1();
     }
 }
 

@@ -13,6 +13,7 @@ public class ArrayListExample {
         arrayList.add(251);
         arrayList.add(50.21f);
         arrayList.add(null);
+
         arrayList.add(null);
         arrayList.add("SACHIN");
 

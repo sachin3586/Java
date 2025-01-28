@@ -4,7 +4,7 @@ public class DuplicatesString {
 
     public static void main(String[] args) {
 
-        String s1="My name name is is sachin dadhe";
+        String s1="My My name name is is sachin dadhe";
         String [] s2=s1.split(" ");
         int counter=0;
         for (int i=0;i<s2.length;i++){

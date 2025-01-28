@@ -7,6 +7,10 @@ public class NonStaticMethod {
 
         System.out.println("This is non static method");
     }
+
+    public static void multiplication(){
+        System.out.println("This is a non static method");
+    }
     public static void main(String[] args) {
 
         // For calling non static method must need to create object of that class
@@ -19,6 +23,6 @@ public class NonStaticMethod {
 
        // staticMethod.addition();  // we can't call static method in other class even if we create the instance of that class.
 
-
+        multiplication();
     }
 }
