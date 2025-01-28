@@ -1,6 +1,7 @@
 package collection.arraylist;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class ArrayListUsingForLoop
 {
@@ -21,8 +22,10 @@ public class ArrayListUsingForLoop
         System.out.println(arrayList22);
         // Using simple for loop
         for (int i=0;i<arrayList22.size();i++){
-            System.out.println(arrayList22.get(i));
+            System.out.print(arrayList22.get(i) + " ");
 
         }
+
+
     }
 }

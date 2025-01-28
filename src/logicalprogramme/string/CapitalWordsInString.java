@@ -16,6 +16,7 @@ public class CapitalWordsInString {
             }
 
         }
+        System.out.println();
         System.out.println(counter);
 
     }

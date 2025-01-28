@@ -4,10 +4,12 @@ public class DefaultImplementation implements DefaultInterface ,DefaultInterface
 
 
     @Override                   // If we have common default methods then use "Super keyword with interface nane & Method"
-    public void display() {
+   public void display() {
         DefaultInterface.super.display();
         DefaultInterface1.super.display();
     }
+
+
 
     public static void main(String[] args) {
         DefaultImplementation defaultImplementation=new DefaultImplementation();

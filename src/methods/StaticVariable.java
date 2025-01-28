@@ -13,7 +13,7 @@ public class StaticVariable {
 
 // Note:- For access instance variable within/outside class also we need to create object/instance of that class
 
-        InstanceVariable i=new InstanceVariable();
-        System.out.println(i.a);
+      //  InstanceVariable i=new InstanceVariable();
+       // System.out.println(i.a);
     }
 }

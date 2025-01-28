@@ -12,7 +12,7 @@ public class MultiDimensionalArray {
 
         for (int i = 0; i < num.length ; i++)       // For rows in array
         {
-            for (int j = 0; j <num[i].length ; j++)       // OR j< 4 i.e length of array  // for columns in array
+            for (int j = 0; j <=num.length ; j++)       // OR j< 4 i.e length of array  // for columns in array
             {
                 System.out.print(num[i][j]  + " ");     // printing first row
             }

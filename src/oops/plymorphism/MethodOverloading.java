@@ -5,9 +5,10 @@ public class MethodOverloading  // compile time polymorphism
     //2.method overloading always happen in single class only
     //3.we can achieve method overloading by changing number of parameter
     //4.we can achieve method overloading by changing data type of parameter
-    // 5.we cant achieve method overloading by changing return type of the method
+    // 5.we can't achieve method overloading by changing return type of the method
     //6.We can overload static method
     //7.we can overload java main method
+
 
 {
     public void addition( int a,int b)

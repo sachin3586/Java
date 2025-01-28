@@ -11,10 +11,23 @@ public class ArrayExample {
          // first sort array in ascending order and we  then get all element using last to zero index with simple for loop
         
         Arrays.sort(x);
+       /* for (int i=0;i<x.length;i++){
+            for (int j=0;j<x.length-1;j++){
+                if (x[j]>x[j+1]){
+
+                    int temp=x[j];
+                    x[j]=x[j+1];
+                    x[j+1]=temp;
+                }
+            }
+        }
+
+        */
         for (int i=x.length-1;i>=0;i--){
             System.out.print(x[i] + " ");
 
         }
+        System.out.println();
         System.out.println("Duplicates in Arrays are as below ");
         // finding dplicates in array using nested for loops
          // finding dplicates in array using nested for loops

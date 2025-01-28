@@ -8,7 +8,7 @@ public class JavaExample1 {
         float b = 10.25f;
 
         System.out.println(b);
-        System.out.print("wow its working   ");
+        System.out.print("wow its working  /n");
         System.out.print("Hello java ");
     }
 

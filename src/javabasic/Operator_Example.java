@@ -10,7 +10,7 @@ public class Operator_Example
         System.out.println("Addition of a & b is " + add);
        System.out.println("a divides b will give "+ a/b);
         System.out.println("a modulus b is a resultant gives remainder "+a%b);
-        System.out.println(a*b);
-        System.out.println(a-b);
+        System.out.println("a and b multiplication result is " + a*b);
+        System.out.println("a and b substraction is "+ (a-b));
     }
 }

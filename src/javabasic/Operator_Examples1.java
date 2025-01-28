@@ -6,14 +6,14 @@ public class Operator_Examples1 {
         int a=10; int b=20; int c=5; int d=10;
         // Relational operator
 
-        System.out.println(a>b);
+        System.out.println((a>b) + "a > b ");
         System.out.println(a<b);
 
         System.out.println(a>=c);
         System.out.println(b<=c);
         //Equality operator
 
-       System.out.println(a==d);
+       System.out.println((a==d)+"  Both are equals ");
        System.out.println(b!=c);
 
        // logical && operator

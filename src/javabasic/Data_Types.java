@@ -10,7 +10,7 @@ public class Data_Types
         float num1=12.1254f;
         System.out.println(num1);
 
-        long l=123456987l;
+        long l=123456985555555574l;
         System.out.println(l);
 
         int a=55878;

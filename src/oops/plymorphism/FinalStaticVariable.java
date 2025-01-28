@@ -3,7 +3,7 @@ package oops.plymorphism;
 public class FinalStaticVariable
 { final static int s;
 
-    FinalStaticVariable(){  // constructor may not be required
+   public FinalStaticVariable(){  // constructor may not be required
 
 
     }

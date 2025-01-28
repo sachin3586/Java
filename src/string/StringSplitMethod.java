@@ -5,7 +5,7 @@ public class StringSplitMethod {
         String name="Shlok Sachin Dadhe";
        // String[] arr=name.split(  " ");
 
-        String[] arr=name.split("a");
+        String[] arr=name.split(" ");
 
         for (String s:arr){
             System.out.print(" " +s);
