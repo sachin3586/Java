@@ -18,8 +18,7 @@ public class PrintAL_3_Ways {
         }
         System.out.println();
         // 2) using for loop
-        for (int
-        i=0;i<al.size();i++){
+        for (int i=0;i<al.size();i++){
             System.out.print(al.get(i) + " ");
         }
         System.out.println();

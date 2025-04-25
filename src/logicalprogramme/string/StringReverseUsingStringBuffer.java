@@ -7,7 +7,7 @@ public class StringReverseUsingStringBuffer {
         String str="Shlok Sachin Dadhe";
 
         StringBuffer sb=new StringBuffer(str);
-        StringBuffer str1 = sb.reverse();
+        String str1 = sb.reverse().toString();
 
         // print original string
         System.out.println(str);

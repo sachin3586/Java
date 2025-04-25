@@ -2,7 +2,8 @@ package constructor;
 
 // Default constructor
 
-public class NonParameterizedConstructor {
+public class
+NonParameterizedConstructor {
      String name;
      int age;
 

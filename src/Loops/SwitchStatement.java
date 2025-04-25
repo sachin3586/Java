@@ -4,7 +4,7 @@ public class SwitchStatement
 {
     public static void main(String[] args)
     {
-        int num=5;
+        int num=3;
         String Result;
         switch (num)
         {

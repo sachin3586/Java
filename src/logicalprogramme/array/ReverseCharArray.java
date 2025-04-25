@@ -5,6 +5,7 @@ public class ReverseCharArray {
         char [] ch={'s','a','c','h','i','n'};
 
 
+
         System.out.println("Array length is " + ch.length);
         for (int i=ch.length-1;i>=0;i--){
 

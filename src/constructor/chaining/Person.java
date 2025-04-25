@@ -1,7 +1,6 @@
 package constructor.chaining;
 
-public class
-Person {
+public class Person {
     String name; int age;
 
     public Person(String name,int age){          // constructor 1

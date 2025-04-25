@@ -1,6 +1,7 @@
 package wrapperclass;
 
-public class WrapperClass11 {
+public class
+WrapperClass11 {
     public static void main(String[] args) {
 
         int a=10;  // primitive data type int

@@ -1,23 +1,33 @@
 package logicalprogramme.string;
 
+import java.util.HashSet;
+import java.util.Iterator;
+
 public class DuplicatesString {
 
     public static void main(String[] args) {
 
+        // find duplicates in string
         String s1="My My name name is is sachin dadhe";
         String [] s2=s1.split(" ");
-        int counter=0;
-        for (int i=0;i<s2.length;i++){
-            for (int j=i+1;j<s2.length;j++){
-                if (s2[i].equals(s2[j])){
 
-                    System.out.print(s2[i] + " ");
-                    counter++;
+        HashSet<String> uniqueWords=new HashSet<>();
+        HashSet<String> duplicatesWords=new HashSet<>();
 
-                }
+        for (String word:s2){
+            if (!uniqueWords.add(word)){
+                duplicatesWords.add(word);
             }
         }
-        System.out.println();
-        System.out.println(counter);
+
+        // getting hashset elements
+        Iterator iterator=duplicatesWords.iterator(); // using iterator
+        while (iterator.hasNext()){
+            System.out.println(iterator.next());
+        }
+        // using for each loop
+        for (String result:duplicatesWords){
+            System.out.print(result + " ");
+        }
     }
 }

@@ -1,10 +1,24 @@
 package logicalprogramme.numbers;
 
+import java.util.Scanner;
+
 public class SimpleImpLogic {
     public static void main(String[] args) {
 
-        System.out.println("Addition is " + 10+20);
-        System.out.println(10+20+ " Addition ");
+       Scanner sc1=new Scanner(System.in);
+        System.out.println("Enter first number");
+        int num1=sc1.nextInt();
+
+        System.out.println("Enter second number");
+        int num2=sc1.nextInt();
+
+
+        System.out.println("Numbers after swappings");
+        num1=num1+num2;
+        num2=num1-num2;
+        num1=num1-num2;
+        System.out.println(num1);
+        System.out.println(num2);
     }
 }
 
