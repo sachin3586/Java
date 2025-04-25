@@ -11,6 +11,7 @@ public class ScannerForStringInput {
                                                    // second  string and we will get output immediately
         String name2=sc.nextLine();
 
+
         System.out.println(name1+ " " + name2);
     }
 }

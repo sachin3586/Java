@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ScannerForInt {
     public static void addition(int a, int b,int c){
+
         System.out.println("The addition of two number is " + (a+b+c));
     }
 

@@ -12,5 +12,10 @@ public class CharArray {
 
             System.out.print(ch[i] +  " ");
         }
+
+        System.out.println();
+        for (char c:ch){
+            System.out.print(c + " ");
+        }
     }
 }

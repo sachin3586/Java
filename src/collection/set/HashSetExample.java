@@ -16,7 +16,7 @@ public class HashSetExample {
         hashSet.add(90);
         hashSet.add(null);
         hashSet.add(null);
-        System.out.println(hashSet);
+        System.out.print(hashSet);
 
       /*  Iterator iterator= hashSet.iterator();
         while (iterator.hasNext()){

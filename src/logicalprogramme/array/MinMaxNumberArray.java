@@ -1,6 +1,6 @@
 package logicalprogramme.array;
 
-public class ArrayExp {
+public class MinMaxNumberArray {
     public static void main(String[] args) {
 
         int [] x={10,5,13,21,47,98,2,22,54,73,31,81,61,11,29,67,101,200};

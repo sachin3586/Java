@@ -14,12 +14,12 @@ public class AscendingOrderArray {
         // Print the sorted array
         System.out.println("The ascending order array is as below ");
 
-     /*   for (int i = 0; i <x.length ; i++)      
+      for (int i = x.length-1; i >=0 ; i--)
         {
             System.out.print(x[i] + " ");
         }
 
-      */
+        System.out.println();
         for (int y:x)                // using for each loop
         {
             System.out.print(y + " ");

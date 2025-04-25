@@ -1,24 +1,26 @@
 package logicalprogramme.string;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class Demo {
     public static void main(String[] args) {
-       // swap 2 strings
-        String s1="SACHIN DADHE";
-        String s2="SHLOK DADHE";
-        System.out.println("Strings before swapping " + " s1="+s1 + " and  s2="+s2);
-        String s3=s1;
-        s1=s2;
-        s2=s3;
-        System.out.println("Strings after swapping " + " s1="+s1 + " and  s2="+s2);
 
+        //String compress
+        String s1="abbcccddddeeeee";
+        String [] s2=s1.split("");
+        HashMap<String,Integer> map=new HashMap<>();
 
+        for (String word:s2){
+            if (!word.isEmpty()){
+                map.put(word,map.getOrDefault(word,0)+1);
+            }
+        }
 
+        for (Map.Entry<String,Integer> entry:map.entrySet()){
+            if (entry.getValue()==1){
+                System.out.println(entry.getKey()+":"+entry.getValue());
+            }
 
+        }
 
-
-
-
-    }
-}
+}}

@@ -3,13 +3,14 @@ package logicalprogramme.numbers;
 public class MultiplicationTable {
     public static void main(String[] args) {
 
-        int number=7;
-        int result;
+       //Multiplication Table
+        int number=7,multiplicationTable;
 
-        for (int i=1;i<=10;i++){
+        for (int i=1;i<11;i++){
+            multiplicationTable=number*i;
+            System.out.println(multiplicationTable);
 
-            result=number*i;
-            System.out.print(result + " " );
         }
+
     }
 }

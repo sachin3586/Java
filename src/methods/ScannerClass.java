@@ -20,6 +20,9 @@ public class ScannerClass {
         System.out.println("Please enter third number");
         int c= scanner.nextInt();
         scannerClass.addition(a, b,c);
+        scanner.nextLine();
+
+
 
 
 

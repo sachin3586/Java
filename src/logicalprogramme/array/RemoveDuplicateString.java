@@ -10,13 +10,17 @@ public class RemoveDuplicateString {
         String s1="Hello Hello everyone my my name  name is is SACHIN SACHIN";
         String [] words=s1.split(" ");
         HashSet<String> uniqueWords=new HashSet<>();
+        HashSet<String> duplicatesWords=new HashSet<>();
+
 
 
         for (String word:words){
-            uniqueWords.add(word);
+           if (!uniqueWords.add(word)){
+               duplicatesWords.add(word);
+           }
         }
 
-        for (String result:uniqueWords){   // printing hashset using for each loop
+        for (String result:duplicatesWords){   // printing hashset using for each loop
             System.out.print(result + " ");
         }
 

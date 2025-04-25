@@ -7,7 +7,7 @@ public class
 TreeSetExample {
     public static void main(String[] args) {
         // Insertion order is not maintained , Duplicates are not allowed, Null insertion not allowed
-
+        // Hetrogeneous objects are not allowed
         TreeSet treeSet=new TreeSet();
         treeSet.add("RAM");
         treeSet.add("Shyam");

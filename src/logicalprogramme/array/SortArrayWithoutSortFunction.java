@@ -17,7 +17,6 @@ SortArrayWithoutSortFunction {
                 }
             }
         }
-
         // Print the sorted array
         System.out.println("Sorted Array:");
         for (int i = 0; i < x.length; i++) {

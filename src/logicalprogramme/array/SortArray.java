@@ -15,6 +15,7 @@ public class SortArray {
             }
         }
         for (int num:x){
+
             System.out.print(num + " ");
         }
     }
